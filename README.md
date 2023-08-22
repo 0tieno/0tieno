@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sir Ronney</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" width="400" src="https://images.cointelegraph.com/images/240_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDEvMTU4MDI5YWYtYTg2YS00MDJmLWE1YjUtZTkxNWNjNjlmMTM4LkpQRw==.jpg" alt="coding"> 
+<img align="right" width="400" src="https://img.freepik.com/premium-photo/javascript-programming-code-abstract-technology-background_272306-155.jpg?w=2000" alt="coding"> 
 
 
 <p align="left"> <a href="https://twitter.com/ronneyotieno121" target="blank"><img src="https://img.shields.io/twitter/follow/ronneyotieno121?logo=twitter&style=for-the-badge" alt="ronneyotieno121" /></a> </p>
