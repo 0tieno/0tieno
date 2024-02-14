@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sir Ronney</h1>
-<h3 align="center">A passionate web developer</h3>
+<h1 align="center">Hi 👋, I'm Ronney Otieno</h1>
+<h3 align="center">A passionate software developer ready to use whatever tool at hand.</h3>
 <img align="right" width="400" src="https://img.freepik.com/premium-photo/javascript-programming-code-abstract-technology-background_272306-155.jpg?w=2000" alt="coding"> 
 
 
 <p align="left"> <a href="https://twitter.com/ronneyotieno121" target="blank"><img src="https://img.shields.io/twitter/follow/ronneyotieno121?logo=twitter&style=for-the-badge" alt="ronneyotieno121" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript** and **Php**
-
-- 💬 Ask me about **web development**
+- 🌱 I’m currently learning **ReactJS** , **Javascript** and **Php**
 
 - 📫 How to reach me **ronney278@gmail.com**
 
