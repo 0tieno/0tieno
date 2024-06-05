@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ronney Otieno</h1>
-<h3 align="center">A passionate software developer and a cloud enthusiast ready to use whatever tool at hand.</h3>
+<h1 align="center">Software Developer | Cloud Enthusiast</h1>
+<h4 align="center">A passionate software developer and a cloud enthusiast ready to use whatever tool at hand.</h4>
 <img align="right" width="400" src="https://img.freepik.com/premium-photo/javascript-programming-code-abstract-technology-background_272306-155.jpg?w=2000" alt="coding"> 
 
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ronney278@gmail.com**
 
-- ⚡ Fun fact **All code without fun makes Ronney dull🙄**
+- ⚡ Fun fact **All code without fun makes ronney dull🙄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
