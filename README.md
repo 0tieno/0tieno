@@ -1,5 +1,5 @@
 <h2 align="center">DevOps | Cloud | Software Engineer</h2>
-<h4 align="center">A passionate software developer and a cloud enthusiast ready to use whatever tool at hand.</h4>
+<h4 align="center">Ready to use whatever tool at hand (web development, cloud (AWS, Azure), DevOps)</h4>
 <img align="right" width="400" src="https://img.freepik.com/premium-photo/javascript-programming-code-abstract-technology-background_272306-155.jpg?w=2000" alt="coding"> 
 
 
