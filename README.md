@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ronney278@gmail.com**
 
-- ⚡ Fun fact **All code without fun makes ronney dull🙄**
+- ⚡ Fun fact **I love helping others than myself🙄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
