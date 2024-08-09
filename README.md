@@ -1,5 +1,6 @@
 <h2 align="center">DevOps | Cloud | Software Engineer</h2>
-<h4 align="center">Ready to use whatever tool at hand (web development, cloud (AWS, Azure), DevOps)</h4>
+<h4 align="center">Fast Learner :) <h4>
+ <h3 align="center"> Ready to use whatever tool at hand (web development, cloud (AWS, Azure), DevOps)</h3>
 <br clear="left"/> <!-- This clears the alignment so the text doesn't wrap around the images -->
 
 <p align="left"> <a href="https://twitter.com/ronneyotieno121" target="blank"><img src="https://img.shields.io/twitter/follow/ronneyotieno121?logo=twitter&style=for-the-badge" alt="ronneyotieno121" /></a> </p>
