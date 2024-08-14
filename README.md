@@ -6,6 +6,9 @@
 <p align="left"> <a href="https://twitter.com/ronneyotieno121" target="blank"><img src="https://img.shields.io/twitter/follow/ronneyotieno121?logo=twitter&style=for-the-badge" alt="ronneyotieno121" /></a> </p>
 <img align="right" width="220" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1033,h_1013/https://k21academy.com/wp-content/uploads/2020/02/Azure.Fundamental_Icon.png" alt="Azure Fundamentals Badge">
 <img align="right" width="180" src="https://th.bing.com/th/id/R.25ede0a68143e8c852fd634ce70c16b3?rik=%2f6ZuS6sRfbI1Ug&pid=ImgRaw&r=0" alt="AWS Cloud Practitioner Badge">
+<img align="right" width="180" src="https://images.credly.com/size/340x340/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" alt="learnathon Badge">
+<img align="right" width="180" src="https://media.licdn.com/dms/image/v2/D4D22AQEG_YXuto4Jpw/feedshare-shrink_800/feedshare-shrink_800/0/1718718540367?e=1726704000&v=beta&t=UAh7ibw_iSE5UiOFF9HpjCHL7l1tg7g9QuI6xQOZBbc" alt="Build edition Badge" style="border-radius: 50%; overflow: hidden;">
+
 
 🌱 I’m currently learning AWS Cloud Practitioner @ emobilis and software development @ PLP
 
