@@ -1,4 +1,4 @@
-![Profile views](https://img.shields.io/badge/Profile%20views-0-brightgreen?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=0tieno&label=Profile%20views&style=flat-square)
 
 <h2 align="center">DevOps | Cloud | Software Engineer</h2>
 <h4 align="center">Fast Learner :)</h4>
