@@ -1,3 +1,5 @@
+![Profile views](https://img.shields.io/badge/Profile%20views-0-brightgreen?style=flat-square)
+
 <h2 align="center">DevOps | Cloud | Software Engineer</h2>
 <h4 align="center">Fast Learner :)</h4>
 <h3 align="center">Ready to use whatever tool at hand (web development, cloud (AWS, Azure), DevOps)</h3>
