@@ -2,29 +2,26 @@
 <h4 align="center">Fast Learner :)</h4>
 <h3 align="center">Ready to use whatever tool at hand (web development, cloud (AWS, Azure), DevOps)</h3>
 
-🌱 I’m currently learning AWS Cloud Practitioner @ emobilis and software development @ PLP
+<p align="left">
+    🌱 I’m currently learning AWS Cloud Practitioner @ emobilis and software development @ PLP<br>
+    📫 How to reach me: ronney278@gmail.com<br>
+    ⚡ Fun fact: I love helping others more than myself🙄 :)
+</p>
 
-📫 How to reach me: ronney278@gmail.com
-
-⚡ Fun fact: I love helping others more than myself🙄 :)
-
----
-<div align="center">
+<div align="right">
     <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1033,h_1013/https://k21academy.com/wp-content/uploads/2020/02/Azure.Fundamental_Icon.png" alt="Azure Fundamentals Badge" width="180" style="margin: 10px;">
     <img src="https://th.bing.com/th/id/R.25ede0a68143e8c852fd634ce70c16b3?rik=%2f6ZuS6sRfbI1Ug&pid=ImgRaw&r=0" alt="AWS Cloud Practitioner Badge" width="180" style="margin: 10px;">
     <img src="https://images.credly.com/size/340x340/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" alt="Learnathon Badge" width="180" style="margin: 10px;">
 </div>
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
     <a href="https://twitter.com/ronneyotieno121" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronneyotieno121" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/ronney-otieno-968542251" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronney-otieno-968542251" height="30" width="40" /></a>
 </p>
 
----
-
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
