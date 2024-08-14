@@ -6,6 +6,7 @@
     <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1033,h_1013/https://k21academy.com/wp-content/uploads/2020/02/Azure.Fundamental_Icon.png" alt="Azure Fundamentals Badge" width="190" style="margin: 10px;">
     <img src="https://th.bing.com/th/id/R.25ede0a68143e8c852fd634ce70c16b3?rik=%2f6ZuS6sRfbI1Ug&pid=ImgRaw&r=0" alt="AWS Cloud Practitioner Badge" width="180" style="margin: 10px;">
     <img src="https://images.credly.com/size/340x340/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" alt="Learnathon Badge" width="170" style="margin: 10px;">
+    <img src="https://github.com/0tieno/0tieno/blob/main/build_edition-removebg-preview.png" alt="Learnathon Badge" width="180" style="margin: 10px;">
 </div>
 
 🌱 I’m currently learning AWS Cloud Practitioner @ emobilis and software development @ PLP
