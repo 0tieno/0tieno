@@ -1,9 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=0tieno&label=Profile%20views&style=flat-square)
 
-<h2 align="center">DevOps | Cloud | Software Engineer</h2>
-<h4 align="center">Fast Learner :)</h4>
-<h3 align="center">Ready to use whatever tool at hand (web development, cloud (AWS, Azure), DevOps)</h3>
-
 <div align="center">
     <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1033,h_1013/https://k21academy.com/wp-content/uploads/2020/02/Azure.Fundamental_Icon.png" alt="Azure Fundamentals Badge" width="190" style="margin: 10px;">
     <img src="https://th.bing.com/th/id/R.25ede0a68143e8c852fd634ce70c16b3?rik=%2f6ZuS6sRfbI1Ug&pid=ImgRaw&r=0" alt="AWS Cloud Practitioner Badge" width="180" style="margin: 10px;">
@@ -11,7 +7,11 @@
     <img src="https://github.com/0tieno/0tieno/blob/main/build_edition-removebg-preview.png" alt="Learnathon Badge" width="180" style="margin: 10px;">
 </div>
 
-🌱 I’m currently learning AWS Cloud Practitioner @ emobilis and software development @ PLP
+<h2>DevOps | Cloud | Software Engineer</h2>
+<h4>Fast Learner :)</h4> <P>I'm ready to learn and use whatever tool at hand to finish the work.</P>
+<p> Hi there, I love to build secure software, and cloud-native solutions using code to optimize cost with improved performance. My expertise lies in (web development(Javascript, python, React, HTML, CSS, MySQL), cloud (AWS, Azure), DevOps, Linux</p>
+
+🌱 I’m currently working on software development @ PLP and Azure Cloud - DevOps & automation using code and Linux
 
 📫 How to reach me: ronney278@gmail.com
 
