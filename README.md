@@ -11,9 +11,9 @@
 <h4>Fast Learner :)</h4> <p>__I'm ready to learn and use whatever tool at hand to finish the work.__
 </p>
 
-<p> Hi there, I love to build secure software, and cloud-native solutions using code to optimize cost with improved performance. My expertise lies in programming (Javascript, Python) web development (ReactJS - frontend | AWS, Azure - backend), DevOps, bash scripting, and Linux.</p>
+<p> Hi there, I love to build secure software, and cloud-native solutions using code to optimize cost with improved performance. My expertise lies in programming (Javascript, Python) web development (ReactJS - frontend | AWS, Azure - backend), DevOps, bash scripting, and Linux. I also excel in software project management and leadership using Trello, Jira, and GitHub projects</p>
 
-🌱 I’m currently working on software development @ PLP and Azure Cloud - DevOps & automation using python and Linux
+🌱 I’m currently working on software development @ PLP and Azure Cloud - DevOps & automation using Python and Linux
 
 📫 How to reach me: ronney278@gmail.com
 
