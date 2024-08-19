@@ -11,7 +11,7 @@
 <h4>Fast Learner :)</h4> <p>__I'm ready to learn and use whatever tool at hand to finish the work.__
 </p>
 
-<p> Hi there, I love to build secure software, and cloud-native solutions using code to optimize cost with improved performance. My expertise lies in web development(ReactJS - frontend, AWS, Azure - backend), DevOps, bash scripting and Linux</p>
+<p> Hi there, I love to build secure software, and cloud-native solutions using code to optimize cost with improved performance. My expertise lies in programming (Javascript, Python) web development (ReactJS - frontend | AWS, Azure - backend), DevOps, bash scripting, and Linux.</p>
 
 🌱 I’m currently working on software development @ PLP and Azure Cloud - DevOps & automation using code and Linux
 
