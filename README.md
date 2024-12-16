@@ -7,7 +7,7 @@
     <img src="https://github.com/0tieno/0tieno/blob/main/build_edition-removebg-preview.png" alt="Learnathon Badge" width="180" style="margin: 10px;">
 </div>
 
-<h2>DevOps . Cloud . Software Engineer</h2>
+<h2>DevOps . CloudSecurity. Software Engineer</h2>
 <h4>Fast Learner :)</h4> <p>__I'm ready to learn and use whatever tool at hand to finish the work.__
 </p>
 
