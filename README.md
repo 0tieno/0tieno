@@ -25,9 +25,9 @@
 
 <p align="left">
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/ronney-otieno)
-- Twitter: [Your Twitter](https://twitter.com/ronneyotieno121)
-- Personal Website: [Your Website](https://your-website.com)
+- LinkedIn: (https://linkedin.com/in/ronney-otieno)
+- Twitter: (https://twitter.com/ronneyotieno121)
+- Personal Website: (https://mssg.me/ronney)
 </p>
 
 ---
