@@ -27,7 +27,7 @@
 
 - LinkedIn: (https://linkedin.com/in/ronney-otieno)
 - Twitter: (https://twitter.com/ronneyotieno121)
-- Personal Website: (https://mssg.me/ronney)
+- I write on hashnode: (https://securecloudwithronney.hashnode.dev/)
 </p>
 
 ---
