@@ -7,13 +7,13 @@
     <img src="https://github.com/0tieno/0tieno/blob/main/build_edition-removebg-preview.png" alt="Learnathon Badge" width="180" style="margin: 10px;">
 </div>
 
-<h2>DevOps . CloudSecurity. Software Engineer</h2>
+<h2>DevOps . cloud security. Backend SWE</h2>
 <h4>Fast Learner :)</h4> <p>__I'm ready to learn and use whatever tool at hand to finish the work.__
 </p>
 
-<p> Hi there, I love to build secure software, and cloud-native solutions using code to optimize cost with improved performance. My expertise lies in programming (Javascript, Python) web development (ReactJS) Cloud (AWS, Azure), DevOps, bash scripting, and Linux. I also excel in software project management and leadership using Trello, Jira, and GitHub projects</p>
+<p> Hi there, I love to build secure software, and cloud-native solutions using code to optimize cost with improved performance. My expertise lies in DevOps, Cloud security, and backend software engineering. I also excel in software project management and community leadership.</p>
 
-🌱 I’m currently working on Azure cloud Security - DevOps & automation using Python and Linux
+🌱 I’m currently working on Azure cloud Security, backend pro software engineering at ALX - DevOps & automation using Python and Linux
 
 📫 How to reach me: ronney278@gmail.com
 
