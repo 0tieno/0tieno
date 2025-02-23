@@ -13,7 +13,7 @@
 
 <p> Hi there, I love to build secure software, and cloud-native solutions using code to optimize cost with improved performance. My expertise lies in DevOps, Cloud security, and backend software engineering. I also excel in software project management and community leadership.</p>
 
-🌱 I’m currently working on Azure cloud Security, backend pro software engineering at ALX - DevOps & automation using Python and Linux
+🌱 I’m currently working on Azure cloud Security, backend pro software engineering at ALX - Focused on DevOps & DevSecOps.
 
 📫 How to reach me: ronney278@gmail.com
 
