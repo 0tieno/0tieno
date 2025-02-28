@@ -8,6 +8,9 @@
 </div>
 
 <h3> Looking for speaker and job opportunities in cloud security & DevOps</h3>
+
+---
+
 <h4>Fast Learner :)
 </h4> <p>__I'm ready to learn and use whatever tool at hand to finish the work.__
 </p>
