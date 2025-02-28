@@ -7,8 +7,9 @@
     <img src="https://github.com/0tieno/0tieno/blob/main/build_edition-removebg-preview.png" alt="Learnathon Badge" width="180" style="margin: 10px;">
 </div>
 
-<h2>DevOps . cloud security. Backend SWE</h2>
-<h4>Fast Learner :)</h4> <p>__I'm ready to learn and use whatever tool at hand to finish the work.__
+<h3> Looking for speaker and job opportunities in cloud security & DevOps</h3>
+<h4>Fast Learner :)
+</h4> <p>__I'm ready to learn and use whatever tool at hand to finish the work.__
 </p>
 
 <p> Hi there, I love to build secure software, and cloud-native solutions using code to optimize cost with improved performance. My expertise lies in DevOps, Cloud security, and backend software engineering. I also excel in software project management and community leadership.</p>
