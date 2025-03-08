@@ -30,7 +30,7 @@
 <p align="left">
 
 - LinkedIn: (https://linkedin.com/in/ronney-otieno)
-- Twitter: (https://twitter.com/ronneyotieno121)
+- Twitter: (https://x.com/ron_otieno)
 - I write on hashnode: (https://securecloudwithronney.hashnode.dev/)
 </p>
 
