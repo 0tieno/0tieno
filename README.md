@@ -19,19 +19,10 @@
 
 🌱 I’m currently working on Azure cloud Security, backend pro software engineering at ALX - Focused on DevOps & DevSecOps.
 
-📫 How to reach me: ronney278@gmail.com
 
 ⚡ Fun fact: I love helping others more than myself🙄 :)
-
----
-
-###  📫 Connect with me:
-
-<p align="left">
-
-- LinkedIn: (https://linkedin.com/in/ronney-otieno)
-- Twitter: (https://x.com/ron_otieno)
-- I write on hashnode: (https://securecloudwithronney.hashnode.dev/)
+<p>
+    <a href="https://portfoliov2-ena4ayghhgdxczag.southafricanorth-01.azurewebsites.net/">More about me →</a>
 </p>
 
 ---
