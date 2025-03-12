@@ -15,7 +15,7 @@
 </h4> <p>__I'm ready to learn and use whatever tool at hand to finish the work.__
 </p>
 
-<p> Hi there, I am at heart a trained cloud security engineer - (DevOps & DevSecOps) and leader based in Kenya. My expertise lies in DevOps, Cloud security, and backend software engineering. I also excel in software project management and community leadership.</p>
+<p>I am at heart a trained cloud security engineer - (DevOps & DevSecOps) and leader based in Kenya. My expertise lies in DevOps, Cloud security, and backend software engineering. I also excel in software project management and community leadership.</p>
 
 <p>I am also a microsoft learn student ambassador and have <a href="https://github.com/0tieno?tab=repositories">built projects</a> and led many technical workshops.</p>
 
