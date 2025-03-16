@@ -24,7 +24,7 @@
 
 ⚡ Fun fact: I love helping others more than myself🙄 :)
 <p>
-    <a href="https://portfoliov2-ena4ayghhgdxczag.southafricanorth-01.azurewebsites.net/">More about me →</a>
+    <a href="ronneyotieno.me">More about me →</a>
 </p>
 
 ---
