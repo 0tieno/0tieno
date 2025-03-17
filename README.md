@@ -24,7 +24,7 @@
 
 ⚡ Fun fact: I love helping others more than myself🙄 :)
 <p>
-    <a href="ronneyotieno.me">More about me →</a>
+    <a href="https://ronneyotieno.me">More about me →</a>
 </p>
 
 ---
