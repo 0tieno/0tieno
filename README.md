@@ -12,7 +12,7 @@
 ---
 
 <h4>Fast Learner :)
-</h4> <p>__I'm ready to learn and use whatever tool at hand to finish the work.__
+</h4> <p>__I'm ready to learn and use whatever tool at hand to get things done.__
 </p>
 
 <p>Dependable, Flexible, problem solver, communicator</p>
