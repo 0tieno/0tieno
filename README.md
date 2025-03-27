@@ -21,7 +21,7 @@
 
 <p>I am also a microsoft learn student ambassador and <a href="https://github.com/0tieno?tab=repositories">have built projects</a> and led many technical workshops.</p>
 
-🌱 I’m currently building secure software systems.
+🌱 I’m currently building <a href="securecloudx.pages.dev">securecloudX - a free platform to help learners get started with and master cloud security & DevSecOps by hands-on learning</a>.
 
 
 ⚡ Fun fact: I love helping others more than myself🙄 :)
