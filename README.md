@@ -1,33 +1,16 @@
 ![Profile views](https://komarev.com/ghpvc/?username=0tieno&label=Profile%20views&style=flat-square)
 
-<div align="center">
-    <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1033,h_1013/https://k21academy.com/wp-content/uploads/2020/02/Azure.Fundamental_Icon.png" alt="Azure Fundamentals Badge" width="190" style="margin: 10px;">
-    <img src="https://th.bing.com/th/id/R.25ede0a68143e8c852fd634ce70c16b3?rik=%2f6ZuS6sRfbI1Ug&pid=ImgRaw&r=0" alt="AWS Cloud Practitioner Badge" width="180" style="margin: 10px;">
-    <img src="https://images.credly.com/size/340x340/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" alt="Learnathon Badge" width="170" style="margin: 10px;">
-    <img src="https://github.com/0tieno/0tieno/blob/main/build_edition-removebg-preview.png" alt="Learnathon Badge" width="180" style="margin: 10px;">
-</div>
+Hey, I am a Cloud Security Engineer & DevOps Enthusiast based in Kenya.  
 
-<h3> Looking for speaker and job opportunities in cloud security & DevOps</h3>
+I specialize in Cloud Security, DevOps, and DevSecOps, with expertise in backend engineering, software project management, and community leadership. As a Microsoft Learn Student Ambassador, I’ve <a href="https://github.com/0tieno?tab=repositories">built projects</a> used by hundreds and led many technical workshops.  
 
----
+Beyond my technical expertise, I am Dependable, a problem solver, communicator, and flexible leader who thrives in fast-paced environments.
 
-<h4>Fast Learner :)
-</h4> <p>__I'm ready to learn and use whatever tool at hand to get things done.__
-</p>
+Currently building: [SecureCloudX](https://securecloudx.pages.dev) – a free hands-on platform for mastering Cloud Security & DevSecOps.  
+**Open to:** Speaker & job opportunities in **Cloud Security & DevOps**.  
 
-<p>Dependable, Flexible, problem solver, communicator</p>
+🔗 [More about me →](https://ronneyotieno.me)
 
-<p>I am at heart a trained cloud security engineer - (DevOps & DevSecOps) and leader based in Kenya. My expertise lies in DevOps, Cloud security, and backend software engineering. I also excel in software project management and community leadership.</p>
-
-<p>I am also a microsoft learn student ambassador and <a href="https://github.com/0tieno?tab=repositories">have built projects</a> and led many technical workshops.</p>
-
-🌱 <p>I’m currently building <a href="https://securecloudx.pages.dev">securecloudX -</a> a free platform to help learners get started with and master cloud security & DevSecOps by hands-on learning.</p>
-
-
-⚡ Fun fact: I love helping others more than myself🙄 :)
-<p>
-    <a href="https://ronneyotieno.me">More about me →</a>
-</p>
 
 ---
 
