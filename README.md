@@ -7,7 +7,7 @@ I specialize in Cloud Security, DevOps, and DevSecOps, with expertise in backend
 Currently building: [SecureCloudX](https://securecloudx.pages.dev) – a free hands-on platform for mastering Cloud Security & DevSecOps.  
 **Open to:** Speaker & job opportunities in **Cloud Security & DevOps**.  
 
-🔗 [More about me →](https://ronneyotieno.me)
+[More about me →](https://ronneyotieno.me)
 
 
 ---
