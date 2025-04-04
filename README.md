@@ -12,7 +12,7 @@ Currently building: [SecureCloudX](https://securecloudx.pages.dev) – a free ha
 
 ---
 
-### 🛠 Technologies & Tools:
+### Technologies & Tools:
 
 <p align="left"> 
     
