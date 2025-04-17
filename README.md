@@ -4,7 +4,15 @@ Hey, I am at heart a cloud security engineer with strong DevSecOps & Secure Back
 
 I specialize in Cloud Security, DevOps, and DevSecOps, with expertise in backend engineering, software project management, and community leadership. As a Microsoft Learn Student Ambassador, I’ve <a href="https://github.com/0tieno?tab=repositories">built projects</a> used by hundreds and led many technical workshops. Beyond my technical expertise, I am Dependable, a problem solver, communicator, and flexible leader who thrives in fast-paced environments.
 
-Currently building: [SecureCloudX](https://securecloudx.pages.dev) – a free hands-on platform for mastering Cloud Security & DevSecOps.  
+I'm Currently Building:
+
+1. [**SecureCloudX**](https://securecloudx.pages.dev) – A free hands-on platform for mastering Cloud Security & DevSecOps.
+
+2. [**JobAtlasAI**](https://jobatlasai.pages.dev/) – An AI-driven platform designed to help users navigate their tech careers with data-backed insights.
+
+3. [**techiesConnect**](https://github.com/0tieno/techiesConnectPlatform) – The ultimate hub for tech students to collaborate, learn, and grow. Find project teammates, explore events, ask questions, and showcase your skills—all in one place, all on your campus.
+
+                    
 **Open to:** Speaker & job opportunities in **Cloud Security, DevOps & software engineering**.  
 
 [More about me →](https://ronneyotieno.me)
