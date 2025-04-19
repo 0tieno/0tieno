@@ -10,7 +10,7 @@ I'm Currently Building:
 
 2. [**JobAtlasAI**](https://jobatlasai.pages.dev/) – An AI-driven platform designed to help users navigate their tech careers with data-backed insights.
 
-3. [**techiesConnect**](https://github.com/0tieno/techiesConnectPlatform) – The ultimate hub for tech students to collaborate, learn, and grow. Find project teammates, explore events, ask questions, and showcase your skills—all in one place, all on your campus.
+3. [**techiesConnect (open source)**](https://github.com/0tieno/techiesConnectPlatform) – The ultimate hub for tech students to collaborate, learn, and grow. Find project teammates, explore events, ask questions, and showcase your skills—all in one place, all on your campus.
 
                     
 **Open to:** Speaker & job opportunities in **Cloud Security, DevOps & software engineering**.  
