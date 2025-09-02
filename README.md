@@ -2,7 +2,7 @@
 
 Hey, I am at heart a cloud security engineer and leader based in Kenya.  
 
-I specialize in Cloud Security, DevOps, and DevSecOps, with expertise in backend engineering, software project management, and community leadership. I'm also a Microsoft Student Ambassador, I’ve <a href="https://github.com/0tieno?tab=repositories">built projects</a> used by hundreds and led many technical workshops. Beyond my technical expertise, I am Dependable, a problem solver, communicator, and flexible leader who thrives in fast-paced environments.
+I specialize in Cloud Security, DevOps, and DevSecOps, with expertise in backend engineering, software project management, and community leadership. I'm also a Microsoft Student Ambassador, I’ve <a href="https://github.com/0tieno?tab=repositories">built projects</a> used by thousands and led many technical workshops. Beyond my technical expertise, I am Dependable, a problem solver, communicator, and flexible leader who thrives in fast-paced environments.
 
 I'm Currently Building:
 
