@@ -4,15 +4,8 @@ Hey, I am at heart a cloud security engineer and leader based in Kenya.
 
 I specialize in Cloud Security, DevOps, and DevSecOps, with expertise in backend engineering, software project management, and community leadership. I'm also a Microsoft Student Ambassador, I’ve <a href="https://github.com/0tieno?tab=repositories">built projects</a> used by thousands and led many technical workshops. Beyond my technical expertise, I am Dependable, a problem solver, communicator, and flexible leader who thrives in fast-paced environments.
 
-I'm Currently Building:
+I'm Currently Building a lot of software in JavaScript and hacking in the cloud.
 
-1. [**SecureCloudX**](https://securecloudx.pages.dev) – A free & Open-source hands-on platform for mastering Cloud Security Engineering & Cloud Penetration Testing.
-
-2. [**JobAtlasAI**](https://jobatlasai.pages.dev/) – An AI-driven platform designed to help users navigate their tech careers with data-backed insights.
-
-3. [**techiesConnect (open source)**](https://github.com/0tieno/techiesConnectPlatform) – The ultimate hub for tech students to collaborate, learn, and grow. Find project teammates, explore events, ask questions, and showcase your skills—all in one place, all on your campus.
-
-                    
 **Open to:** Speaker & job opportunities in **Cloud Security, DevOps & software engineering**.  
 
 [More about me →](https://ronneyotieno.me)
