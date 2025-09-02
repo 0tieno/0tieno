@@ -6,7 +6,7 @@ I specialize in Cloud Security, DevOps, and DevSecOps, with expertise in backend
 
 I'm Currently Building:
 
-1. [**SecureCloudX**](https://securecloudx.pages.dev) – A free hands-on platform for mastering Cloud Security & DevSecOps.
+1. [**SecureCloudX**](https://securecloudx.pages.dev) – A free & Open-source hands-on platform for mastering Cloud Security Engineering & Cloud Penetration Testing.
 
 2. [**JobAtlasAI**](https://jobatlasai.pages.dev/) – An AI-driven platform designed to help users navigate their tech careers with data-backed insights.
 
