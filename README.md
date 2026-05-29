@@ -6,4 +6,4 @@ Currently a Backend Software Engineer @ <a href="https://safaricom.co.ke">Safari
 
 > hacker, cyber defense & ctf player | swe ++founder
 
-[More about me →](https://0tieno.github.io/Blog)
+[More about me →](https://0tieno.github.io/iamronney)
