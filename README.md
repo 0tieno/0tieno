@@ -4,6 +4,6 @@ As a Developer, some of <a href="https://github.com/0tieno?tab=repositories">my 
 
 Currently a Backend Software Engineer @ <a href="https://safaricom.co.ke">Safaricom PLC</a> and a <a href="https://mvp.microsoft.com/en-US/mvp/profile/b9a24a24-7cfe-489e-8a76-4a0ad03a3444" > Microsoft MVP </a> (cloud security)
 
-> hacker, cyber defense & ctf player | swe ++founder
+> cyber defense (AI & Cloud) | swe ++founder
 
 [More about me →](https://0tieno.github.io/iamronney)
